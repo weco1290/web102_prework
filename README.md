@@ -2,7 +2,7 @@
 
 Submitted by: **Wen-Hui Chen**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Funding Games** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: **15** hours spent in total
 
@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/mbO7S4Y.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
